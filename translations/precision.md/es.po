@@ -479,7 +479,7 @@ msgstr "Precisión"
 #. type: Plain text
 #: docs/spells/precision.md
 msgid "![Precision](../assets/spells-precision.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Precisión](../assets/spells-precision.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/precision.md

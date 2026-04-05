@@ -294,7 +294,7 @@ msgstr "Básico"
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
 #: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 msgid "[Magic Arrow](magic_arrow.md)"
-msgstr "[Magic Arrow] (Magic_arrow.md)"
+msgstr "[Flecha Mágica](magic_arrow.md)"
 
 #. type: Title ##
 #: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md

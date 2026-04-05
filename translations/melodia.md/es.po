@@ -659,7 +659,7 @@ msgstr ""
 #. type: Plain text
 #: docs/heroes/melodia.md
 msgid "=== \"Fortune Ⅰ\""
-msgstr "=== \"Fortuna ⅰ\""
+msgstr "=== \"Fortuna Ⅰ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -669,11 +669,14 @@ msgid ""
 "        ![Fortune Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Fortuna Ⅰ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
 msgid "=== \"Fortune Ⅳ\""
-msgstr "=== \"Fortuna ⅳ\""
+msgstr "=== \"Fortuna Ⅳ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -683,11 +686,14 @@ msgid ""
 "        ![Fortune Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Fortuna Ⅳ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md
 msgid "=== \"Fortune Ⅵ\""
-msgstr "=== \"Fortuna ⅵ\""
+msgstr "=== \"Fortuna Ⅵ\""
 
 #. type: Plain text
 #: docs/heroes/melodia.md
@@ -697,6 +703,9 @@ msgid ""
 "        ![Fortune Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
 "    </figure>\n"
 msgstr ""
+"    <figure markdown=\"span\">\n"
+"        ![Fortuna Ⅵ](../assets/player-deck-back.webp){ width=\"340\" align=right }\n"
+"    </figure>\n"
 
 #. type: Plain text
 #: docs/heroes/melodia.md

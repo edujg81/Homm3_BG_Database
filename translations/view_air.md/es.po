@@ -481,12 +481,12 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/view_air.md
 #, no-wrap
 msgid "View Air"
-msgstr "Ver el aire"
+msgstr "Ver Aire"
 
 #. type: Plain text
 #: docs/spells/view_air.md
 msgid "![View Air](../assets/spells-view_air.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Ver Aire](../assets/spells-view_air.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/view_air.md

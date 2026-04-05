@@ -529,12 +529,12 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/lightning_bolt.md
 #, no-wrap
 msgid "Lightning Bolt"
-msgstr "Rayo"
+msgstr "Relámpago"
 
 #. type: Plain text
 #: docs/spells/lightning_bolt.md
 msgid "![Lightning Bolt](../assets/spells-lightning_bolt.webp){ width=\"340\" align=right }"
-msgstr ""
+msgstr "![Relámpago](../assets/spells-lightning_bolt.webp){ width=\"340\" align=right }"
 
 #. type: Plain text
 #: docs/spells/lightning_bolt.md

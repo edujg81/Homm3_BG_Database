@@ -884,4 +884,4 @@ msgstr "**Pocos and Pack** - Should the first effect of the [Orb of Inhibition](
 #. type: Bullet: '- '
 #: docs/units/titans.md
 msgid "[^1] **Few and Pack** - Titans are immune to the effect of [Disrupting Ray spell](../spells/disrupting_ray.md) and the second effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md), because their ability is already in play at the time when the other effects are played."
-msgstr "[^1] **Pocos and Pack** - Titans are immune to the effect of [Disrupting Ray spell](../spells/disrupting_ray.md) and the second effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md), because their ability is already in play at the time when the other effects are played."
+msgstr "[^1] **Pocos and Pack** - Titans are immune to the effect of [Rayo Perturbador spell](../spells/disrupting_ray.md) and the second effect of the [Orb of Inhibition](../artifacts/orb_of_inhibition.md), because their ability is already in play at the time when the other effects are played."
