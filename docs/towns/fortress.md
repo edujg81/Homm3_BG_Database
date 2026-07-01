@@ -24,7 +24,7 @@
 | :--- | ---: | :---: |
 | City Hall | 10 :gold:<br>4 :building_materials:<br>0 :valuables: | At the beginning of each Resource round, choose:<br>:instant: 5 :gold:<br><br>— OR —<br><br>Exchange resources like in the Trading Post. |
 | Citadel | 8 :gold:<br>5 :building_materials:<br>1 :valuables: | Unlocks **Reinforcing** [units](#units). When under siege, add 3 Walls, 1 Gate, and 1 [Arrow Tower](../units/arrow_tower.md) cards to the Combat board. |
-| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spellpower:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spellpower:](../spells/index.md). |
+| Mage Guild | 4 :gold:<br>2 :building_materials:<br>1 :valuables: | **When built:**<br>**Search(2)** [:spell:](../spells/index.md) twice.<br><br>**After built:**<br>Once per your turn :pay: 5 :gold: to **Search(2)** [:spell:](../spells/index.md). |
 | Den | 5 :gold:<br>3 :building_materials:<br>1 :valuables: | Unlocks **Recruiting** of :bronze: [units](#units). |
 | Swamp Lairs | 8 :gold:<br>6 :building_materials:<br>3 :valuables: | Unlocks **Recruiting** of :silver: [units](#units). |
 | Nest upon the Pond | 10 :gold:<br>9 :building_materials:<br>4 :valuables: | Unlocks **Recruiting** of :golden: [units](#units). |
@@ -34,24 +34,37 @@
 
 ## Heroes
 
-- :magic: [Adrienne](../heroes/adrienne.md)
-- :might: [Bron](../heroes/bron.md)
-- :might: [Gerwulf](../heroes/gerwulf.md)
-- :magic: [Merist](../heroes/merist.md)
-- :might: [Tarnum](../heroes/tarnum_fortress.md)
-- :might: [Tazar](../heroes/tazar.md)
-- :might: [Wystan](../heroes/wystan.md)
+| Name | Class | Ability | Specialty |
+| :--- | :--- | :--- | :--- |
+| [Adrienne](../heroes/adrienne.md) | :magic: Witch | [Wisdom](../abilities/wisdom.md) | [Fire Magic](../heroes/adrienne.md#specialty) |
+| [Bron](../heroes/bron.md) | :might: Beastmaster | [Resistance](../abilities/resistance.md) | [Basilisks](../heroes/bron.md#specialty) |
+| [Gerwulf](../heroes/gerwulf.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Ballista](../heroes/gerwulf.md#specialty) |
+| [Merist](../heroes/merist.md) | :magic: Witch | [First Aid](../abilities/first_aid.md) | [Stone Skin](../heroes/merist.md#specialty) |
+| [Tarnum](../heroes/tarnum_fortress.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [Basilisks](../heroes/tarnum_fortress.md#specialty) |
+| [Tazar](../heroes/tazar.md) | :might: Beastmaster | [Armorer](../abilities/armorer.md) | [War Hero](../heroes/tazar.md#specialty) |
+| [Wystan](../heroes/wystan.md) | :might: Beastmaster | [Archery](../abilities/archery.md) | [Lizardmen](../heroes/wystan.md#specialty) |
 
 
 ## Units
 
-- :bronze: [Gnolls](../units/gnolls.md)
-- :bronze: [Lizardmen](../units/lizardmen.md)
-- :bronze: [Dragon Flies](../units/dragon_flies.md)
-- :silver: [Basilisks](../units/basilisks.md)
-- :silver: [Gorgons](../units/gorgons.md)
-- :golden: [Wyverns](../units/wyverns.md)
-- :golden: [Hydras](../units/hydras.md)
+For the "Few" and "Pack" version of the same unit, stat changes are shown in **bold**.
+
+| Name | # | Tier | Type | :attack: | :defense: | :health_points: | :initiative: | Recruitment Cost | Abilities |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: | :--- |
+| [Gnolls](../units/gnolls.md#few) | Few | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | 3 | 4 | 2 :gold: | - |
+| [Gnolls](../units/gnolls.md#pack) | Pack | :bronze: | [:unit_ground:](../units/index.md#ground-units) | 2 | 1 | **4** | **5** | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md#few) | Few | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | 2 | 0 | 3 | 4 | 3 :gold: | - |
+| [Lizardmen](../units/lizardmen.md#pack) | Pack | :bronze: | [:unit_ranged:](../units/index.md#ranged-units) | **3** | 0 | 3 | **5** | 5 :gold: | - |
+| [Dragon Flies](../units/dragon_flies.md#few) | Few | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | 0 | 3 | 8 | 4 :gold: | :unit_attack: :ongoing: |
+| [Dragon Flies](../units/dragon_flies.md#pack) | Pack | :bronze: | [:unit_flying:](../units/index.md#flying-units) | 3 | **1** | 3 | **12** | 7 :gold: | :unit_attack: :ongoing: |
+| [Basilisks](../units/basilisks.md#few) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | 4 | 5 | 6 :gold: | :unit_attack: |
+| [Basilisks](../units/basilisks.md#pack) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 1 | **5** | **7** | 9 :gold: | :unit_attack: |
+| [Gorgons](../units/gorgons.md#few) | Few | :silver: | [:unit_ground:](../units/index.md#ground-units) | 4 | 2 | 5 | 5 | 9 :gold: | - |
+| [Gorgons](../units/gorgons.md#pack) | Pack | :silver: | [:unit_ground:](../units/index.md#ground-units) | **5** | 2 | 5 | **6** | 14 :gold: | :unit_attack: |
+| [Wyverns](../units/wyverns.md#few) | Few | :golden: | [:unit_flying:](../units/index.md#flying-units) | 5 | 1 | 8 | 7 | 12 :gold: | :unit_attack: |
+| [Wyverns](../units/wyverns.md#pack) | Pack | :golden: | [:unit_flying:](../units/index.md#flying-units) | **6** | 1 | 8 | **11** | 18 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md#few) | Few | :golden: | [:unit_ground:](../units/index.md#ground-units) | 6 | 3 | 8 | 5 | 20 :gold:<br>1 :valuables: | :unit_attack: |
+| [Hydras](../units/hydras.md#pack) | Pack | :golden: | [:unit_ground:](../units/index.md#ground-units) | **7** | 3 | **10** | **7** | 28 :gold:<br>2 :valuables: | :unit_attack: |
 
 
 ## Comes With

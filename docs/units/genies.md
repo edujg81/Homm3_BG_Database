@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 6 | 6 | 4 |
 | :initiative: | 7 | **8** | 9 |
 | Cost | 8 :gold: | 12 :gold: | 11 :gold: |
-| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spellpower:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
+| Abilities | :unit_other: Discard 3 cards from your deck and take a [:spell:](../spells/index.md) discarded this way to your hand. | :unit_attack: Discard up to 3 cards from your deck and take a [:spell:](../spells/index.md) discarded this way to your hand. | :unit_attack: When attacking [Efreet](efreet.md), this unit gains +1 :attack:. |
 
 
 ## Heroes With A Specialty

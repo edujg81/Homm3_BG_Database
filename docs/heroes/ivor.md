@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Rampart](../towns/rampart.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;3</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Offense](../abilities/offense.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Change your next Attack roll to "0". |
-| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Ranged unit](../units/index.md). |
-| Ⅵ | :instant: Change your next attack roll on any side. |
+| Ⅰ | :instant: Set all dice of the next attack roll to "0". |
+| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for a [:unit_ranged: unit](../units/index.md#ranged-units). |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 2.<br><br>— OR —<br><br>:instant: Instead of rolling, set all dice of your roll to the values of your choice. |
 
 
 ## Appearances As Enemy Hero

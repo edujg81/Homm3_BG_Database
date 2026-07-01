@@ -9,13 +9,13 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) |
 | :attack: | 1 |
 | :defense: | 0 |
 | :health_points: | 2 |
 | :initiative: | 3 |
 | Cost | 3 :gold: |
-| Abilities | :effect_map: At the beginning of each Resource round, gain 3 :gold:. |
+| Abilities | :map_effect: At the beginning of each Resource round, gain 3 :gold:. |
 
 
 ## Notes

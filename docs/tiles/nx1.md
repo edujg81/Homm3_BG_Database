@@ -1,7 +1,7 @@
 # #N1
 
 ___
-[Near Tile](../keywords/near_tile.md)
+[Near Tile](../tiles/index.md#near-tiles)
 ___
 Snow
 ___
@@ -11,11 +11,11 @@ ___
 
 - [Tree of Knowledge](../fields/tree_of_knowledge.md)
 - [Magic Spring](../fields/magic_spring.md)
-- [Ⅴ](../difficulties.md) :gold: [Mine](../fields/mine.md)
-- [Stables](../fields/stables.md)
-- [Blocked Field](../keywords/blocked_field.md)
-- [Temple](../fields/temple.md)
-- [Windmill](../fields/windmill.md)
+- [Ⅴ](../difficulties.md) [:gold: Mine](../fields/mine.md)
+- [:movement: Stables](../fields/stables.md)
+- [Blocked Field](../fields/blocked_field.md)
+- [:morale_positive: Temple](../fields/temple.md)
+- [+1 :valuables: Windmill](../fields/windmill.md)
 
 
 ## Comes With

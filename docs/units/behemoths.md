@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
-| :attack: | 7 | **8** | 🚧 |
-| :defense: | 2 | 2 | 🚧 |
-| :health_points: | 8 | **10** | 🚧 |
-| :initiative: | 6 | **9** | 🚧 |
-| Cost | 19 :gold:<br>1 :valuables: | 29 :gold:<br>2 :valuables: | 🚧 |
-| Abilities | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | 🚧 |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 6 | **7** | 5 |
+| :defense: | 2 | 2 | 1 |
+| :health_points: | 9 | **10** | 8 |
+| :initiative: | 6 | **9** | 9 |
+| Cost | 19 :gold:<br>1 :valuables: | 29 :gold:<br>2 :valuables: | 26 :gold: |
+| Abilities | :unit_attack: Decrease the target's :defense: by 1 (to a minimum of 0). | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. | :unit_attack: Decrease the target's :defense: by 2 (to a minimum of 0). After the attack, place 1 Corrosion token on the target. |
 
 
 ## Comes With

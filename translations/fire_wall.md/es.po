@@ -225,7 +225,7 @@ msgstr "Notas"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -407,8 +407,8 @@ msgstr "Viene Con"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -425,7 +425,7 @@ msgstr "Viene Con"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -504,9 +504,9 @@ msgstr "[^1]: Excepciones para modos de juego específicos. Esta explicación no
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -521,19 +521,19 @@ msgstr "[Lista de Hechizos](index.md)"
 #: docs/spells/curse.md docs/spells/fire_shield.md docs/spells/fire_wall.md
 #: docs/spells/fireball.md docs/spells/frenzy.md docs/spells/index.md
 #: docs/spells/inferno.md docs/spells/magic_arrow.md docs/spells/misfortune.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr "[Escuela de Magia Ígnea](school_of_fire_magic.md)"
+msgid "[School of Fire Magic](index.md#school-of-fire-magic)"
+msgstr "[Escuela de Magia Ígnea](index.md#school-of-fire-magic)"
 
 #. type: Plain text
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/curse.md
 #: docs/spells/fire_wall.md docs/spells/misfortune.md docs/spells/visions.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Basic Fire Spell](school_of_fire_magic.md)</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](school_of_fire_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Basic Fire Spell](index.md#school-of-fire-magic)</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>[Hechizo Básico de Fuego](index.md#school-of-fire-magic)</p>\n"
 
 #. type: Title #
 #: docs/spells/fire_wall.md
@@ -549,8 +549,8 @@ msgstr "![Muro de Fuego](../assets/spells-fire_wall.webp){ width=\"340\" align=r
 #. type: Plain text
 #: docs/spells/fire_wall.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \\* to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.<br><br>:empower: 0 ➣ \\*1 :damage:<br>:empower: 2 ➣ \\*2 :damage:<br>:empower: 4 ➣ \\*3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Para este Combate, coloca esta carta en un espacio vacío del tablero de Combate. Inflige \\* a cualquier [unidad](../units/index.md) que se detenga aquí y a cualquier [unidad](../units/index.md) :unit_ground: o :unit_ranged: que la atraviese.<br><br>:empower: 0 ➣ \\*1 :damage:<br>:empower: 2 ➣ \\*2 :damage:<br>:empower: 4 ➣ \\*3 :damage:<br><br>— O —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: For this Combat, place this card in an empty space on the Combat board. Deal \\* to any [unit](../units/index.md) stopping here and to any :unit_ground: or :unit_ranged: [unit](../units/index.md) passing through.<br><br>:power: 0 ➣ \\*1 :damage:<br>:power: 2 ➣ \\*2 :damage:<br>:power: 4 ➣ \\*3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:ongoing: Para este Combate, coloca esta carta en un espacio vacío del tablero de Combate. Inflige \\* a cualquier [unidad](../units/index.md) que se detenga aquí y a cualquier [unidad](../units/index.md) :unit_ground: o :unit_ranged: que la atraviese.<br><br>:power: 0 ➣ \\*1 :damage:<br>:power: 2 ➣ \\*2 :damage:<br>:power: 4 ➣ \\*3 :damage:<br><br>— O —<br><br>:instant: +1 :power:</p>\n"
 
 #. type: Bullet: '- '
 #: docs/spells/fire_wall.md

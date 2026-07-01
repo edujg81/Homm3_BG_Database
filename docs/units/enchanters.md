@@ -9,7 +9,7 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :golden: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 4 |
 | :defense: | 1 |
 | :health_points: | 5 |
@@ -33,6 +33,7 @@
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Conflux Expansion](../content/conflux_expansion.md)
 
 
 ## See Also

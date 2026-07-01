@@ -7,37 +7,37 @@ ___
 <p style="text-align: center;" markdown>[Cove](../towns/cove.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Wisdom](../abilities/wisdom.md)</p>
 ___
 
 ## Specialty
 
-=== "🚧 Ⅰ"
+=== "Sorceresses Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅳ"
+=== "Sorceresses Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "🚧 Ⅵ"
+=== "Sorceresses Ⅵ"
 
     <figure markdown="span">
-        ![🚧 Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Sorceresses Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Sorceresses unit](../units/sorceresses.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>The effect doubles for the [Sorceresses unit](../units/sorceresses.md). |
+| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack:.<br><br>:ongoing: Place a "-2" Weakness token on any one [unit](../units/index.md) for 2 Combat rounds. |
 
 
 ## Comes With

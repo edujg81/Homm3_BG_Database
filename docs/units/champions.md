@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Castle](../towns/castle.md) | [Castle](../towns/castle.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 5 | **6** | 4 |
 | :defense: | 2 | 2 | 2 |
 | :health_points: | 7 | 7 | 6 |
 | :initiative: | 7 | **9** | 8 |
 | Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 18 :gold: |
-| Abilities | :effect_map: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. |
+| Abilities | :map_effect: If your hero is on a field with Stables, this unit's reinforcement cost is reduced by 6 :gold:. | :unit_attack: If this unit's movement ends in a space other than where it started, you may reroll an [Attack die](../keywords/dice.md#attack-die). | :unit_attack: Roll 2 [Attack dice](../keywords/dice.md#attack-die) and apply both outcomes.<br>:unit_passive: Reroll this unit's all "-1" rolls. |
 
 
 ## Notes

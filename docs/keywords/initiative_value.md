@@ -1,2 +1,0 @@
-# :initiative: Initiative Value
-

@@ -43,13 +43,13 @@ msgstr ""
 #: docs/heroes/xyron.md docs/keywords/blocked_field.md
 #: docs/keywords/center_tile.md docs/keywords/empty_field.md
 #: docs/keywords/far_tile.md docs/keywords/flaggable_field.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/near_tile.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/chain_lightning.md docs/spells/cure.md
 #: docs/spells/dimension_door.md docs/spells/dispel.md

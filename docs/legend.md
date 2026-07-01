@@ -3,6 +3,13 @@
 Quick reference for what the different glyphs mean.
 
 
+## Heroes
+
+| Icon | Description |
+| :---: | :--- |
+| :might: | Hero of Might |
+| :magic: | Hero of Magic |
+
 ## Units
 
 | Icon | Description |
@@ -16,7 +23,7 @@ Quick reference for what the different glyphs mean.
 | :unit_ranged: | Ranged unit |
 | :attack: | Attack |
 | :defense: | Defense |
-| :empower: | Power |
+| :power: | Power |
 | :skill: | Intelligence |
 | :health_points: | Health |
 | :damage: | Damage |
@@ -32,9 +39,9 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :effect_map: | Map effect. Can be activated when it's your turn and you are not in a fight |
+| :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |
 | :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |
-| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |
+| :unit_retaliation: | Retaliation. Triggers when unit is retaliating |
 | :activation: | Activation. Triggers when unit activates |
 | :unit_passive: | Passive. Triggers when condition is met |
 | :unit_other: | Can be used as alternative to attacking |
@@ -47,7 +54,7 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :spellpower: | [Spell](spells/index.md) |
+| :spell: | [Spell](spells/index.md) |
 | :artifact: | [Artifact](artifacts/index.md) |
 
 ## Resources
@@ -62,8 +69,8 @@ Quick reference for what the different glyphs mean.
 
 | Icon | Description |
 | :---: | :--- |
-| :treasure: | [Treasure die](dice.md#treasure-die) |
-| :resource_die: | [Resource die](dice.md#resource-die) |
+| :treasure: | [Treasure die](keywords/dice.md#treasure-die) |
+| :resource_die: | [Resource die](keywords/dice.md#resource-die) |
 
 ## Miscellaneous
 
@@ -74,3 +81,11 @@ Quick reference for what the different glyphs mean.
 | :morale_positive: | Positive morale |
 | :morale_negative: | Negative morale |
 | :movement: | Movement point |
+
+## AI Hero Card Types
+
+| Icon | Description |
+| :---: | :--- |
+| :might: | Might card |
+| :magic: | Magic card |
+| :skill: | Skill card |

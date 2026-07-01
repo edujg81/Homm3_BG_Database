@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
-| :attack: | 4 | **5** | 🚧 |
-| :defense: | 2 | 2 | 🚧 |
-| :health_points: | 6 | **6** | 🚧 |
-| :initiative: | 4 | **6** | 🚧 |
-| Cost | 9 :gold: | 13 :gold: | 🚧 |
-| Abilities | - | :activation: Add +1 :empower: to the first [Earth Magic](../spells/school_of_earth_magic.md) spell you cast during this Activation. | 🚧 |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 4 | **5** | 3 |
+| :defense: | 2 | 2 | 2 |
+| :health_points: | 5 | 5 | 4 |
+| :initiative: | 4 | **6** | 4 |
+| Cost | 9 :gold: | 13 :gold: | 14 :gold: |
+| Abilities | - | :activation: Add +1 :power: to the first [Earth Magic spell](../spells/index.md#school-of-earth-magic) you cast during this Activation. | :unit_passive: Immune to [Magic Arrow](../spells/magic_arrow.md) and [Earth Magic :spell:](../spells/index.md#school-of-earth-magic). This unit deals elemental damage. |
 
 
 ## Comes With

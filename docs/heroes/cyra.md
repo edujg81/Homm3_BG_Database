@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;3</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;3</p>
 ___
 <p style="text-align: center;" markdown>[Diplomacy](../abilities/diplomacy.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1. |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 2. |
-| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. |
+| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. |
+| Ⅳ | :instant: Your selected [unit's](../units/index.md) gains +1 :attack:.</br></br>The effect doubles if the attacked [unit](../units/index.md) has higher :initiative:. |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 3. This [unit](../units/index.md) gains +1 :defense: against attacks made by [units](../units/index.md) with lower :initiative:. |
 
 
 ## Comes With

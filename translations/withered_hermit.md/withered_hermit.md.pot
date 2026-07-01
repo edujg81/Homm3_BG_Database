@@ -167,7 +167,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -349,8 +349,8 @@ msgstr ""
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -367,7 +367,7 @@ msgstr ""
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -579,7 +579,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/withered_hermit.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:resource_die:](../dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:resource_die:](../dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Name a resource that will not show on any of the dice, then roll 3 [:resource_die:](../keywords/dice.md#resource-die). If you are correct, resolve one of the dice. If you are wrong, choose one result and subtract it from you resources.<br><br>— OR —<br><br>Roll 1 [:resource_die:](../keywords/dice.md#resource-die). You may pay the indicated resources to **Search(2)** the [Artifact](../artifacts/index.md) deck.<br><br>— OR —<br><br>Leave and gain nothing.</p>\n"
 msgstr ""
 
 #. type: Plain text

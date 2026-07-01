@@ -9,13 +9,13 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :silver: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) |
 | :attack: | 3 |
 | :defense: | 0 |
 | :health_points: | 5 |
 | :initiative: | 7 |
-| Cost | 11 :gold: |
-| Abilities | :effect_map: Roll a [die](../dice.md#attack-die). On a "-1" outcome, gain a :morale_positive: token. |
+| Cost | 10 :gold: |
+| Abilities | :map_effect: Once per turn. Roll an [Attack die](../keywords/dice.md#attack-die). On a "+1", gain :morale_positive:. |
 
 
 ## Comes With

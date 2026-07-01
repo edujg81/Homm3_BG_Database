@@ -168,7 +168,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -349,9 +349,9 @@ msgstr "Viene Con"
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -368,7 +368,7 @@ msgstr "Viene Con"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -587,8 +587,8 @@ msgstr "![Pantano Maldito](../assets/events-cursed_swamp.webp){ width=\"475\" al
 #. type: Plain text
 #: docs/events/cursed_swamp.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spellpower:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego tira 2 :treasure: y elige un resultado.<br><br>— O —<br><br>Retira uno o más [:spellpower:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** del mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad más barata.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>**Each player chooses one option:** <br>Gain Negative Morale. Then roll 2 :treasure: and choose one result.<br><br>— OR —<br><br>Remove one or more [:spell:](../spells/index.md) from your hand; if you remove at least 2, **Search (3)** the Artifact deck.<br><br>— OR —<br><br>Discard your cheapest unit.<br><br>— OR —<br><br>Only for [:necro:](../towns/necropolis.md). **Reinforce** one of your :bronze: or :silver: for free.</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>**Cada jugador elige una opción:** <br>Gana Moral Negativa. Luego tira 2 :treasure: y elige un resultado.<br><br>— O —<br><br>Retira uno o más [:spell:](../spells/index.md) de tu mano; si retiras al menos 2, **Busca (3)** del mazo de Artefacto.<br><br>— O —<br><br>Descarta tu unidad más barata.<br><br>— O —<br><br>Solo para [:necro:](../towns/necropolis.md). **Refuerza** una de tus :bronze: o :silver: gratis.</p>\n"
 
 #. type: Plain text
 #: docs/events/cursed_swamp.md

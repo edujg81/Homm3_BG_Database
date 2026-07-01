@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Cove](../towns/cove.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Luck](../abilities/luck.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), then draw 1 card. |
-| Ⅳ | instant: Remove any effect or :paralysis: from the selected [unit](../units/index.md), and remove up to 2 :damage: from the selected [unit](../units/index.md). |
-| Ⅵ | instant: Discard a card and remove up to 🚧 :damage: from the selected [unit](../units/index.md). |
+| Ⅰ | :instant: Remove any effect or [:paralysis:](../keywords/paralysis.md) from your selected [unit](../units/index.md), then draw 1 card. |
+| Ⅳ | :instant: Remove any effect or [:paralysis:](../keywords/paralysis.md) as well as up to 2 :damage: from your selected [unit](../units/index.md). |
+| Ⅵ | :instant: Remove up to 3 :damage: from your selected [unit](../units/index.md). |
 
 
 ## Comes With

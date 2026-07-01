@@ -7,9 +7,9 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Gain :morale_positive: token. Gain +1 :movement: for this turn.</p>
+<p style="text-align: center;" markdown>Gain [:morale_positive:](../keywords/morale.md#positive) token. Gain +1 :movement: for this turn.</p>
 ___
 
 

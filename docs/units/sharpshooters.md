@@ -9,7 +9,7 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :silver: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 3 |
 | :defense: | 0 |
 | :health_points: | 6 |
@@ -26,6 +26,7 @@
 ## Comes With
 
 - [Core Game](../content/core_game.md)
+- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
 
 
 ## See Also

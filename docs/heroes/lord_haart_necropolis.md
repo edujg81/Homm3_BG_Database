@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Necropolis](../towns/necropolis.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Necromancy](../abilities/necromancy.md)</p>
 ___
@@ -36,7 +36,7 @@ ___
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Reduce the :damage: from enemy retaliation by 1.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |
-| Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](../units/index.md), roll 2 [Attack dice](../dice.md#attack-die) and resolve the lower outcome. |
+| Ⅳ | :ongoing: For this Combat, when an enemy performs a Retaliation Attack against this [unit](../units/index.md), roll 2 [Attack dice](../keywords/dice.md#attack-die) and resolve the lower outcome. |
 | Ⅵ | :instant: Reduce the :damage: from enemy retaliation by 2.<br><br>This effect doubles for the [Dread Knights unit](../units/dread_knights.md). |
 
 

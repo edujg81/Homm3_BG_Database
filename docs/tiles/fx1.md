@@ -1,7 +1,7 @@
 # #F1
 
 ___
-[Far Tile](../keywords/far_tile.md)
+[Far Tile](../tiles/index.md#far-tiles)
 ___
 Snow
 ___
@@ -9,12 +9,12 @@ ___
 
 ## Fields
 
-- [Empty Field](../keywords/empty_field.md)
-- [Windmill](../fields/windmill.md)
+- [Empty Field](../fields/empty_field.md)
+- [+1 :valuables: Windmill](../fields/windmill.md)
 - [Ⅲ](../difficulties.md) [Tower Settlement](../towns/tower.md)
-- [Blocked Field](../keywords/blocked_field.md)
-- [Ⅱ](../difficulties.md) [Treasure](../fields/treasure.md)
-- [Stables](../fields/stables.md)
+- [Blocked Field](../fields/blocked_field.md)
+- [Ⅱ](../difficulties.md) [:treasure:](../fields/treasure_symbol.md)
+- [:movement: Stables](../fields/stables.md)
 - [Witch Hut](../fields/witch_hut.md)
 
 

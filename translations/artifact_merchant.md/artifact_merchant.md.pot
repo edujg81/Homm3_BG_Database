@@ -167,7 +167,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -348,9 +348,9 @@ msgstr ""
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -367,7 +367,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -581,7 +581,7 @@ msgstr ""
 #. type: Plain text
 #: docs/events/artifact_merchant.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../keywords/minor_artifact.md) cards cost 3 :gold:, [Major](../keywords/major_artifact.md) 5 :gold:, [Relic](../keywords/relic_artifact.md) 7 :gold:.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Draw 5 [artifacts](../artifacts/index.md). You can buy either any number of them or the face-up card from the [Artifact](../artifacts/index.md) discard pile. After finishing, give the rest of the cards to the player on the left. The exchange goes on until the last card is bought or the cards return to the one who drew them. [Minor Artifacts](../artifacts/index.md#minor-artifacts) cards cost 3 :gold:, [Major](../artifacts/index.md#major-artifacts) 5 :gold:, [Relic](../artifacts/index.md#relic-artifacts) 7 :gold:.</p>\n"
 msgstr ""
 
 #. type: Plain text

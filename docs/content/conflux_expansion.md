@@ -10,9 +10,9 @@
 
 ## Inside The Box
 
-- *Unreleased*
 - [Conflux Faction](../towns/conflux.md)
-- Monoliths
+- [One-Way Monoliths](../fields/monolith_one_way.md)
+- [Two-Way Monoliths](../fields/monolith_two_way.md)
 
 
 ## See Also

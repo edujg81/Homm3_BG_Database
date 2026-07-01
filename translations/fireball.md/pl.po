@@ -224,7 +224,7 @@ msgstr "Uwagi"
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -406,8 +406,8 @@ msgstr "Pochodzi z"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
-#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
+#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -424,7 +424,7 @@ msgstr "Pochodzi z"
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -550,9 +550,9 @@ msgstr "[Pudełko Podstawowe](../content/core_game.md)"
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -568,7 +568,7 @@ msgstr "[Lista Jednostek](units/index.md)"
 #: docs/spells/frenzy.md docs/spells/inferno.md docs/spells/sacrifice.md
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -576,18 +576,18 @@ msgstr ""
 #: docs/spells/curse.md docs/spells/fire_shield.md docs/spells/fire_wall.md
 #: docs/spells/fireball.md docs/spells/frenzy.md docs/spells/index.md
 #: docs/spells/inferno.md docs/spells/magic_arrow.md docs/spells/misfortune.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_water_magic.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-water-magic
 #: docs/spells/slayer.md docs/spells/summon_fire_elemental.md
 #: docs/spells/visions.md
-msgid "[School of Fire Magic](school_of_fire_magic.md)"
-msgstr ""
+msgid "[School of Fire Magic](index.md#school-of-fire-magic)"
+msgstr "[Szkoła Ognia](index.md#school-of-fire-magic)"
 
 #. type: Title #
 #: docs/spells/fireball.md
 #, no-wrap
 msgid "Fireball"
-msgstr ""
+msgstr "Kula Ognia"
 
 #. type: Plain text
 #: docs/spells/fireball.md
@@ -597,7 +597,7 @@ msgstr ""
 #. type: Plain text
 #: docs/spells/fireball.md
 #, no-wrap
-msgid "<p style=\"text-align: center;\" markdown>:activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:activation: Select 2 adjacent places. Deal \\* :damage: to [units](../units/index.md) in these spaces.<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr ""
 
 #. type: Bullet: '- '

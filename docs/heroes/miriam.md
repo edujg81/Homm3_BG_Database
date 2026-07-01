@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Cove](../towns/cove.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;3</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;3</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Logistics](../abilities/logistics.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: **Search(3)** [Ability](../abilities/index.md) deck. Then Remove this card. |
-| Ⅳ | :instant: **Search(2)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |
-| Ⅵ | :instant: **Search(3)** [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) deck. Then Remove this card. |
+| Ⅰ | :instant: Remove 1 [Ability](../abilities/index.md) card from your hand to **Search(2)** the [Ability](../abilities/index.md) deck. Then, you may Remove this Specialty card. |
+| Ⅳ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(2)** the corresponding deck. Then, you may Remove this Specialty card. |
+| Ⅵ | :instant: Remove 1 [Ability](../abilities/index.md), [Artifact](../artifacts/index.md), or [Spell](../spells/index.md) card from your hand to **Search(4)** the corresponding deck. Then, you may Remove this Specialty card.  |
 
 
 ## Comes With

@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Castle](../towns/castle.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Archery](../abilities/archery.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
-| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Marksmen unit](../units/marksmen.md). |
+| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
+| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
+| Ⅵ | :activation: Activate one of your [:unit_ranged: units](../units/index.md#ranged-units), even if that unit has already been activated.<br><br>— OR —<br><br>:instant: Draw 2 cards.<br><br>The effect doubles for the [Marksmen unit](../units/marksmen.md). |
 
 
 ## Comes With

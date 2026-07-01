@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 5 | **6** | 5 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 8 | 8 | 7 |
 | :initiative: | 7 | **9** | 7 |
 | Cost | 11 :gold: | 18 :gold:<br>1 :valuables: | 18 :gold: |
-| Abilities | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spellpower:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliate: The target is :paralysis:. |
+| Abilities | :unit_passive: Reduce any :damage: from [:spell:](../spells/index.md) dealt to this unit by 1 (to a minimum of 0), | :unit_passive: Reduce any :damage: from [:spell:](../spells/index.md) dealt to this and adjacent friendly unit(s) by 1 (to a minimum of 0), | :unit_retaliation: The target is :paralysis:. |
 
 
 ## Heroes With A Specialty

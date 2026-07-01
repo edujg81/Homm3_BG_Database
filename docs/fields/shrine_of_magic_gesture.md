@@ -1,15 +1,21 @@
 # Shrine of Magic Gesture
 
-<figure markdown="span">
+=== "Land"
 
-![Shrine of Magic Gesture Map Location](../assets/locations-shrine_of_magic_gesture.webp){ width="475" align=right }
+    <figure markdown="span">
+        ![Shrine of Magic Gesture Map Land Location](../assets/locations-shrine_of_magic_gesture.webp){ width="475" align=right }
+    </figure>
 
-</figure>
+=== "Sea"
+
+    <figure markdown="span">
+        ![Shrine of Magic Gesture Map Sea Location](../assets/locations-shrine_of_magic_gesture_water.webp){ width="475" align=right }
+    </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Visitable Field](index.md#visitable-field)</p>
 ___
-<p style="text-align: center;" markdown>Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck.</p>
+<p style="text-align: center;" markdown>Pay :pay: 3 :gold: to [**Search(2)**](../keywords/search.md) the [Spell](../spells/index.md) Deck.</p>
 ___
 
 

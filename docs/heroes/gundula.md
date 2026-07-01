@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Stronghold](../towns/stronghold.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Wisdom](../abilities/wisdom.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 1. |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 2. |
-| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is decreased by 3. |
+| Ⅰ | :ongoing: For this Combat, the selected [unit's](../units/index.md) :initiative: is decreased by 2—to a minimum of 1. |
+| Ⅳ | :instant: Your selected [unit's](../units/index.md) gains +1 :attack:.</br></br>The effect doubles if the [unit's](../units/index.md) :initiative: is higher than the attacked [unit's](../units/index.md) :initiative:. |
+| Ⅵ | :ongoing: For this Combat, the selected [unit's](../units/index.md) :initiative: is decreased by 4—to a minimum of 1. |
 
 
 ## Comes With

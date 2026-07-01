@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Inferno](../towns/inferno.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;1</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Eagle Eye](../abilities/eagle_eye.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +2 :attack:. Place a Black cube on that [unit](../units/index.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit's](../units/index.md#flying-units) :attack: is increased by 2 and its :initiative: is increased by 1. Place a Black cube on that [unit](../units/index.md). |
+| Ⅵ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +3 :attack: and ignores Retaliation Attacks. Place a Black cube on that [unit](../units/index.md). |
 
 
 ## Comes With

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-16 09:10+0000\n"
+"POT-Creation-Date: 2025-11-29 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -144,8 +144,8 @@ msgstr ""
 #: docs/heroes/tarnum_stronghold.md docs/heroes/tazar.md docs/heroes/torosar.md
 #: docs/heroes/valeska.md docs/heroes/vidomina.md docs/heroes/wystan.md
 #: docs/heroes/xyron.md docs/heroes/yog.md docs/heroes/zilare.md
-#: docs/heroes/zydar.md docs/keywords/underground_tile.md
-#: docs/keywords/water_tile.md docs/spells/air_shield.md
+#: docs/heroes/zydar.md docs/keywords/subterranean_tile.md
+#: docs/keywords/sea_tile.md docs/spells/air_shield.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
 #: docs/spells/blind.md docs/spells/bloodlust.md docs/spells/chain_lightning.md
 #: docs/spells/counterstrike.md docs/spells/cure.md docs/spells/curse.md
@@ -190,7 +190,7 @@ msgstr ""
 #: docs/units/azure_dragons.md docs/units/basilisks.md docs/units/behemoths.md
 #: docs/units/black_dragons.md docs/units/boars.md docs/units/centaurs.md
 #: docs/units/cerberi.md docs/units/champions.md docs/units/crusaders.md
-#: docs/units/crystal_dragons.md docs/units/cyclops.md docs/units/demons.md
+#: docs/units/crystal_dragons.md docs/units/cyclopes.md docs/units/demons.md
 #: docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -337,15 +337,15 @@ msgstr ""
 #: docs/events/prison.md docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/index.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md docs/fields/settlement.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -381,8 +381,8 @@ msgstr ""
 #: docs/keywords/flaggable_field.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/near_tile.md
 #: docs/keywords/relic_artifact.md docs/keywords/revisitable_field.md
-#: docs/keywords/starting_tile.md docs/keywords/underground_tile.md
-#: docs/keywords/visitable_field.md docs/keywords/water_tile.md
+#: docs/keywords/starting_tile.md docs/keywords/subterranean_tile.md
+#: docs/keywords/visitable_field.md docs/keywords/sea_tile.md
 #: docs/spells/air_shield.md docs/spells/anti-magic.md docs/spells/berserk.md
 #: docs/spells/bless.md docs/spells/blind.md docs/spells/bloodlust.md
 #: docs/spells/chain_lightning.md docs/spells/counterstrike.md
@@ -396,9 +396,9 @@ msgstr ""
 #: docs/spells/magic_arrow.md docs/spells/mirth.md docs/spells/misfortune.md
 #: docs/spells/prayer.md docs/spells/precision.md
 #: docs/spells/remove_obstacle.md docs/spells/resurrection.md
-#: docs/spells/sacrifice.md docs/spells/school_of_air_magic.md
-#: docs/spells/school_of_earth_magic.md docs/spells/school_of_fire_magic.md
-#: docs/spells/school_of_water_magic.md docs/spells/shield.md
+#: docs/spells/sacrifice.md docs/spells/index.md#school-of-air-magic
+#: docs/spells/index.md#school-of-earth-magic docs/spells/index.md#school-of-fire-magic
+#: docs/spells/index.md#school-of-water-magic docs/spells/shield.md
 #: docs/spells/slayer.md docs/spells/slow.md docs/spells/sorrow.md
 #: docs/spells/stone_skin.md docs/spells/summon_air_elemental.md
 #: docs/spells/summon_earth_elemental.md docs/spells/summon_fire_elemental.md
@@ -432,7 +432,7 @@ msgstr ""
 #: docs/units/ayssids.md docs/units/azure_dragons.md docs/units/basilisks.md
 #: docs/units/behemoths.md docs/units/black_dragons.md docs/units/boars.md
 #: docs/units/centaurs.md docs/units/cerberi.md docs/units/champions.md
-#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclops.md
+#: docs/units/crusaders.md docs/units/crystal_dragons.md docs/units/cyclopes.md
 #: docs/units/demons.md docs/units/dendroids.md docs/units/diamond_golems.md
 #: docs/units/dragon_flies.md docs/units/dread_knights.md docs/units/dwarves.md
 #: docs/units/earth_elementals.md docs/units/efreet.md docs/units/elves.md
@@ -543,15 +543,15 @@ msgstr ""
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -606,15 +606,15 @@ msgstr ""
 #: docs/events/school_of_magic_and_school_of_war.md
 #: docs/events/shrine_of_the_magic_thought.md docs/events/stables.md
 #: docs/events/the_villagers_plea.md docs/events/withered_hermit.md
-#: docs/fields/2_resources.md docs/fields/artifact.md
+#: docs/fields/resource_symbol.md docs/fields/artifact_symbol.md
 #: docs/fields/black_market.md docs/fields/dragon_utopia.md
 #: docs/fields/fountain_of_youth.md docs/fields/grail.md
 #: docs/fields/hill_fort.md docs/fields/learning_stone.md
-#: docs/fields/library.md docs/fields/magic_spring.md
+#: docs/fields/library_of_enlightenment.md docs/fields/magic_spring.md
 #: docs/fields/market_of_time.md docs/fields/mine.md
 #: docs/fields/mystical_garden.md docs/fields/obelisk.md
 #: docs/fields/pandoras_box.md docs/fields/prison.md docs/fields/random_town.md
-#: docs/fields/redwood_observatory.md docs/fields/resources.md
+#: docs/fields/redwood_observatory.md docs/fields/resource_symbol.md
 #: docs/fields/sanctuary.md docs/fields/scholar.md
 #: docs/fields/shrine_of_magic_gesture.md
 #: docs/fields/shrine_of_magic_incantation.md docs/fields/stables.md
@@ -707,8 +707,8 @@ msgstr ""
 #. type: Plain text
 #: docs/astrologers_proclaim/plane_between_planes.md
 msgid ""
-"![Plane Between Planes](../assets/astrologers_proclaim-plane_between_planes."
-"webp){ width=\"475\" align=right }"
+"![Plane Between Planes](../assets/astrologers_proclaim-"
+"plane_between_planes.webp){ width=\"475\" align=right }"
 msgstr ""
 
 #. type: Plain text

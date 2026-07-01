@@ -2,7 +2,7 @@
 
 ![Sentinel's Shield](../assets/artifacts_relic-sentinels_shield.webp){ width="340" align=right }
 ___
-<p style="text-align: center;" markdown>[Relic Artifact](../keywords/relic_artifact.md)</p>
+<p style="text-align: center;" markdown>[Relic Artifact](index.md#relic-artifacts)</p>
 ___
 <p style="text-align: center;" markdown>:instant: Discard 1 card to gain +3 :defense:.<br><br>— OR —<br><br>:instant: +2 :defense:</p>
 ___
@@ -16,5 +16,7 @@ ___
 
 ## See Also
 
-
+- [Thunder Helmet](thunder_helmet.md)
+- [Titan's Cuirass](titans_cuirass.md)
+- [Titan's Gladius](titans_gladius.md)
 - [List of Artifacts](index.md)

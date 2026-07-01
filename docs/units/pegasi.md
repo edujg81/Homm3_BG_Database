@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Rampart](../towns/rampart.md) | [Rampart](../towns/rampart.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) | [:unit_flying:](../keywords/flying_unit.md) |
+| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 5 | **6** | 5 |
 | :initiative: | 8 | **12** | 8 |
 | Cost | 6 :gold: | 10 :gold: | 14 :gold: |
-| Abilities | - | :unit_passive: The :empower: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md), they must discard an additional card with :empower:. |
+| Abilities | - | :unit_passive: The :power: of all enemy [spells](../spells/index.md) is reduced by 1 (to a minimum of 0). | :unit_passive: Whenever an enemy casts a [:spell:](../spells/index.md), they must discard an additional card with :power:. |
 
 
 ## Notes

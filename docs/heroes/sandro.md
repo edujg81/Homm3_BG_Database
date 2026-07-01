@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Necropolis](../towns/necropolis.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Sorcery](../abilities/sorcery.md)</p>
 ___
@@ -51,7 +51,7 @@ ___
 
 - **Ⅰ and Ⅳ** - this can only be played on a *pack* of [Skeletons](../units/skeletons.md) or [Zombies](../units/zombies.md), adding another amount to them, named "Horde".
 - **Ⅳ** - the abilities of the [Pack of Zombies](../units/zombies.md) become inactive if they are upgraded to a "Horde". Once the "Horde" is defeated and they become a "Pack" again, their abilities function as usual.
-- **Ⅵ** - can be playedon "Few", "Pack", or even "Horde" of [Skeletons](../units/skeletons.md).
+- **Ⅵ** - can be played on "Few", "Pack", or even "Horde" of [Skeletons](../units/skeletons.md).
 - [^1] **Ⅵ** - If the [Skeletons](../units/skeletons.md) are upgraded to a "Legion", they may be further upgraded to a "Pack" or a "Horde", but the "Legion" stays on top and its statistics are applied until defeated.
 
 

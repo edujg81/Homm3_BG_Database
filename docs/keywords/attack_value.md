@@ -1,2 +1,0 @@
-# :attack: Attack Value
-

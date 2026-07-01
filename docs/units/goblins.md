@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
-| :attack: | 1 | **2** | 🚧 |
-| :defense: | 0 | 0 | 🚧 |
-| :health_points: | 4 | 4 | 🚧 |
-| :initiative: | 6 | **8** | 🚧 |
-| Cost | 1 :gold: | 2 :gold: | 🚧 |
-| Abilities | - | - | 🚧 |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 1 | **2** | 1 |
+| :defense: | 0 | 0 | 0 |
+| :health_points: | 4 | 4 | 4 |
+| :initiative: | 6 | **7** | 6 |
+| Cost | 1 :gold: | 2 :gold: | 4 :gold: |
+| Abilities | - | - | - |
 
 
 ## Comes With

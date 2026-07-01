@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Stronghold](../towns/stronghold.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Scouting](../abilities/scouting.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
-| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +1 :health_points:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md). |
+| Ⅵ | :ongoing: For this Combat, your selected [unit](../units/index.md) gains +2 :initiative:.<br><br>The effect doubles for the [Thunderbirds unit](../units/thunderbirds.md).|
 
 
 ## Appearances As Enemy Hero

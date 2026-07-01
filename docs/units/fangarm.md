@@ -9,13 +9,13 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :silver: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) |
+| Type | [:unit_flying:](index.md#flying-units) |
 | :attack: | 3 |
 | :defense: | 1 |
 | :health_points: | 5 |
 | :initiative: | 8 |
-| Cost | 14 :gold: |
-| Abilities | :unit_passive: Ignore all [:spellpower:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
+| Cost | 11 :gold: |
+| Abilities | :unit_passive: Ignore all [:spell:](../spells/index.md) and [Specialty](../heroes/index.md) effects other than :damage:. |
 
 
 ## Comes With

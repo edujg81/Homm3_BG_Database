@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Castle](../towns/castle.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;2</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;1</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Mysticism](../abilities/mysticism.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Zealots unit](../units/zealots.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Zealots unit](../units/zealots.md). |
+| Ⅵ | :ongoing: For this Combat, your [Zealots unit](../units/zealots.md) ignores its targets' :defense:.<br><br>— OR —<br><br>:instant: Draw 1 card. |
 
 
 ## Comes With

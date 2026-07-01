@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Fortress](../towns/fortress.md) | [Fortress](../towns/fortress.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 4 | 4 | 4 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 4 | **5** | 4 |
 | :initiative: | 5 | **7** | 5 |
 | Cost | 6 :gold: | 9 :gold: | 12 :gold: |
-| Abilities | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On "-1" outcomes on the [Attack die](../dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../dice.md#attack-die). On a "0" result, :paralysis: the target. |
+| Abilities | :unit_attack: On "-1" outcomes on the [Attack die](../keywords/dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: On "-1" outcomes on the [Attack die](../keywords/dice.md#attack-die), the attacked unit gains a :paralysis: token. | :unit_attack: After the attack, roll 1 [Attack die](../keywords/dice.md#attack-die). On a "0" result, :paralysis: the target. |
 
 
 ## Heroes With A Specialty

@@ -9,13 +9,13 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :bronze: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) |
 | :attack: | 2 |
 | :defense: | 1 |
 | :health_points: | 3 |
 | :initiative: | 6 |
 | Cost | 5 :gold: |
-| Abilities | :effect_map: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
+| Abilities | :map_effect: Once during your turn, look at the top card from any deck, then put it back on the top or on the bottom of that deck. |
 
 
 ## Notes

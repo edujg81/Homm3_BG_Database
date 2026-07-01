@@ -7,37 +7,37 @@ ___
 <p style="text-align: center;" markdown>[Stronghold](../towns/stronghold.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;4</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Offense](../abilities/offense.md)</p>
 ___
 
 ## Specialty
 
-=== "Cyclops Ⅰ"
+=== "Cyclopes Ⅰ"
 
     <figure markdown="span">
-        ![Cyclops Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Cyclops Ⅳ"
+=== "Cyclopes Ⅳ"
 
     <figure markdown="span">
-        ![Cyclops Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
-=== "Cyclops Ⅵ"
+=== "Cyclopes Ⅵ"
 
     <figure markdown="span">
-        ![Cyclops Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Cyclopes Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:<br><br>This effect doubles for the [Cyclops unit](../units/cyclops.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>This effect doubles for the [Cyclops unit](../units/cyclops.md). |
-| Ⅵ | :instant: Your selected [unit](../units/index.md) gains +2 :attack: |
+| Ⅰ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for the [Cyclops unit](../units/cyclopes.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :initiative: is increased by 1.<br><br>The effect doubles for the [Cyclopes unit](../units/cyclopes.md). |
+| Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 1.<br><br>The effect doubles for the [Cyclopes unit](../units/cyclopes.md). |
 
 
 ## Comes With

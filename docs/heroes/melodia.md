@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Rampart](../towns/rampart.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;2</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;2</p>
 ___
 <p style="text-align: center;" markdown>[Luck](../abilities/luck.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Gain :morale_positive:. |
-| Ⅳ | :instant: Use this after any roll. You can reroll the [dice](../dice.md). |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |
+| Ⅳ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.</br>Gain 1 :gold:. |
+| Ⅵ | :map_effect: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |
 
 
 ## Appearances As Enemy Hero

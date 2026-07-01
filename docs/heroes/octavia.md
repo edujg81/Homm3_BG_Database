@@ -7,7 +7,7 @@ ___
 <p style="text-align: center;" markdown>[Inferno](../towns/inferno.md)</p>
 ___
 
-<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:empower:](../statistics/power.md)&nbsp;1</br>[:skill:](../statistics/knowledge.md)&nbsp;1</p>
+<p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;2</br>[:defense:](../statistics/defense.md)&nbsp;2</br>[:power:](../statistics/power.md)&nbsp;1</br>[:knowledge:](../statistics/knowledge.md)&nbsp;1</p>
 ___
 <p style="text-align: center;" markdown>[Scholar](../abilities/scholar.md)</p>
 ___
@@ -35,9 +35,9 @@ ___
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | 🚧 |
-| Ⅳ | 🚧 |
-| Ⅵ | 🚧 |
+| Ⅰ | :instant: Play this card after rolling at least 1 [:resource_die:](../keywords/dice.md) to set 1 [:resource_die:](../keywords/dice.md) to "6 :gold:".<br><br>— OR —<br><br>:instant: Draw 1 card. |
+| Ⅳ | :instant: Roll and resolve 1 [:resource_die:](../keywords/dice.md).<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :attack:. |
+| Ⅵ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.<br><br>— OR —<br><br>:instant: Draw 2 cards. |
 
 
 ## Comes With

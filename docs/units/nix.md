@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
 | Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | 🚧 |
-| :attack: | 5 | **6** | 🚧 |
-| :defense: | 2 | 2 | 🚧 |
-| :health_points: | 7 | **8** | 🚧 |
-| :initiative: | 6 | **7** | 🚧 |
-| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 🚧 |
-| Abilities | - | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | 🚧 |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| :attack: | 5 | **6** | 5 |
+| :defense: | 2 | 2 | 1 |
+| :health_points: | 7 | **8** | 7 |
+| :initiative: | 6 | **7** | 6 |
+| Cost | 12 :gold: | 20 :gold:<br>1 :valuables: | 20 :gold: |
+| Abilities | - | :unit_passive: This unit cannot take more than 4 :damage: from a single attack. | :unit_passive: This unit cannot take more than 5 :damage: from a single attack. |
 
 
 ## Comes With

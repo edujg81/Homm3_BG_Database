@@ -9,13 +9,13 @@
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
 | Tier | :azure: |
-| Type | [:unit_flying:](../keywords/flying_unit.md) |
+| Type | [:unit_flying:](index.md#flying-units) |
 | :attack: | 8 |
 | :defense: | 3 |
 | :health_points: | 10 |
 | :initiative: | 19 |
 | Cost | 45 :gold:<br>2 :valuables: |
-| Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spellpower:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |
+| Abilities | :unit_attack: If you resolve a "-1" on the [Attack die](../keywords/dice.md#attack-die), the target gains :paralysis:.<br>:unit_passive: Ignore any [:spell:](../spells/index.md) effects and :damage: from [Specialty](../heroes/index.md). |
 
 
 ## Heroes With A Specialty

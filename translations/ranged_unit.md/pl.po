@@ -40,7 +40,7 @@ msgstr ""
 #: docs/heroes/adelaide.md docs/heroes/alamar.md docs/heroes/deemer.md
 #: docs/heroes/jeddite.md docs/heroes/sandro.md docs/heroes/sephinroth.md
 #: docs/heroes/solmyr.md docs/heroes/tazar.md docs/heroes/xyron.md
-#: docs/keywords/blocked_field.md docs/keywords/flying_unit.md
+#: docs/keywords/blocked_field.md docs/units/index.md#flying-units
 #: docs/keywords/ground_unit.md docs/keywords/major_artifact.md
 #: docs/keywords/minor_artifact.md docs/keywords/paralysis.md
 #: docs/keywords/permanent_effect.md docs/keywords/ranged_unit.md
@@ -79,7 +79,7 @@ msgstr "Uwagi"
 #. type: Link reference
 #: docs/abilities/diplomacy.md
 #: docs/astrologers_proclaim/charlie_and_his_circus.md
-#: docs/keywords/flying_unit.md docs/keywords/ground_unit.md
+#: docs/units/index.md#flying-units docs/keywords/ground_unit.md
 #: docs/keywords/major_artifact.md docs/keywords/minor_artifact.md
 #: docs/keywords/ranged_unit.md docs/keywords/relic_artifact.md
 #: docs/spells/fire_wall.md docs/spells/haste.md docs/spells/slow.md
@@ -115,7 +115,7 @@ msgstr ""
 #: docs/keywords/ranged_unit.md
 #, no-wrap
 msgid ":unit_ranged: Ranged Unit"
-msgstr ""
+msgstr ":unit_ranged: Jednostka Dystansowa"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md
@@ -151,7 +151,7 @@ msgstr ""
 #: docs/keywords/ranged_unit.md
 #, no-wrap
 msgid "List of Ranged Units"
-msgstr ""
+msgstr "Lista Jednostek Dystansowych"
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/rampart.md
@@ -225,7 +225,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: docs/keywords/ranged_unit.md docs/towns/stronghold.md
-msgid ":golden: [Cyclops](../units/cyclops.md)"
+msgid ":golden: [Cyclopes](../units/cyclopes.md)"
 msgstr ""
 
 #. type: Bullet: '- '

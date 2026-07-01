@@ -23,13 +23,13 @@
 | :--- | :---: | :---: | :---: |
 | Town | [Tower](../towns/tower.md) | [Tower](../towns/tower.md) | [Neutral](../towns/neutral.md) |
 | Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 0 | **1** | 0 |
 | :health_points: | 4 | 4 | 5 |
 | :initiative: | 5 | 6 | 6 |
 | Cost | 6 :gold: | 11 :gold: | 11 :gold: |
-| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :empower: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :empower:. |
+| Abilities | :unit_attack: Ignore combat penalties. | :unit_attack: Ignore combat penalties. :activation: Add +1 :power: to the first [spell](../spells/index.md) you cast this round. | :unit_attack: Ignore combat penalties. After this unit's attack, the enemy discards a random card or a card with :power:. |
 
 
 ## Heroes With A Specialty
@@ -39,7 +39,7 @@
 
 ## Notes
 
-- **Pack** - A [spell](../spells/index.md) will only receive the +1 :empower: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later.
+- **Pack** - A [spell](../spells/index.md) will only receive the +1 :power: by the Magi, if it's the player's first [spell](../spells/index.md) of the current Combat round and it was played either during the activation of Magi or later.
 - **Neutral** - Should a random card be discarded, the card can not be chosen. In a multiplayer game, another player picks the random card.
 
 
