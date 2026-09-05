@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Few Thunderbirds](../assets/units-stronghold-silver-thunderbirds-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Pack of Thunderbirds](../assets/units-stronghold-silver-thunderbirds-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Thunderbirds](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Neutral Thunderbirds](../assets/units-neutral-silver-thunderbirds.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
-| Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :silver_tier: | :silver_tier: | :silver_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 4 | 4 | 3 |
 | :defense: | 1 | 1 | 0 |
 | :health_points: | 5 | **6** | 6 |

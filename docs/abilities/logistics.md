@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Logistics](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Logistics](../assets/abilities-logistics-empowered.webp){ width="340" align=right }
     </figure>
 
 
@@ -20,7 +20,7 @@ ___
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
 | Regular | :ongoing: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent [empty field](../fields/empty_field.md). | :instant: Your [Hero](../heroes/index.md) gains +1 Movement. |
-| Empowered | :instant: Your [Hero](../heroes/index.md) gains +1 :movement:. | - |
+| Empowered | :instant: Your [Hero](../heroes/index.md) gains +1 :movement_points:. | - |
 
 
 ## Heroes With Starting Ability

@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Sea Dogs](../assets/units-cove-bronze-sea_dogs-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Sea Dogs](../assets/units-cove-bronze-sea_dogs-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sea Dogs](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Sea Dogs](../assets/units-neutral-bronze-sea_dogs.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 4 | **5** | 4 |

@@ -1,6 +1,6 @@
 # Melodia
 
-<p style="text-align: center;" markdown>![Melodia](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Melodia](../assets/heroes-rampart-magic-melodia.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Druid](index.md)</p>
 ___
@@ -17,25 +17,25 @@ ___
 === "Fortune Ⅰ"
 
     <figure markdown="span">
-        ![Fortune Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅰ](../assets/hero_specialties-rampart-melodia-1.webp){ width="340" align=right }
     </figure>
 
 === "Fortune Ⅳ"
 
     <figure markdown="span">
-        ![Fortune Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅳ](../assets/hero_specialties-rampart-melodia-4.webp){ width="340" align=right }
     </figure>
 
 === "Fortune Ⅵ"
 
     <figure markdown="span">
-        ![Fortune Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fortune Ⅵ](../assets/hero_specialties-rampart-melodia-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Gain :morale_positive: and 1 :gold:. |
+| Ⅰ | :instant: Gain :positive_morale: and 1 :gold:. |
 | Ⅳ | :instant: Roll 2 [:resource_die:](../keywords/dice.md) and resolve one of them.</br>Gain 1 :gold:. |
 | Ⅵ | :map_effect: During this turn, the number of dice you roll and resolve at locations is increased by 1. Gain 1 :gold:. |
 

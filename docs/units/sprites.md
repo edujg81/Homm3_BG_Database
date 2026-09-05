@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Sprites](../assets/units-conflux-bronze-sprites-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Sprites](../assets/units-conflux-bronze-sprites-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sprites](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Sprites](../assets/units-neutral-bronze-sprites.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 2 | **4** | 2 |

@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Few Sorceresses](../assets/units-cove-silver-sorceresses-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Pack of Sorceresses](../assets/units-cove-silver-sorceresses-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Sorceresses](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Neutral Sorceresses](../assets/units-neutral-silver-sorceresses.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
-| Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :silver_tier: | :silver_tier: | :silver_tier: |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 3 | **4** | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 5 | **6** | 5 |

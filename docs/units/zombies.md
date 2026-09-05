@@ -21,15 +21,15 @@
 === "Crypt"
 
     <figure markdown="span">
-        ![Crypt Zombies](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Crypt Zombies](../assets/creature_banks-crypt-zombies.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Crypt |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :bronze: | :bronze: | :bronze: | - |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Town | [Necropolis](../towns/necropolis.md) | [Necropolis](../towns/necropolis.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | 2 | 2 | 1 |
 | :defense: | 1 | 1 | 0 | 0 |
 | :health_points: | 3 | 3 | 4 | 2 |

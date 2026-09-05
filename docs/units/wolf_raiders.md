@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Wolf Raiders](../assets/units-stronghold-bronze-wolf_raiders-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Wolf Raiders](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Wolf Raiders](../assets/units-neutral-bronze-wolf_raiders.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | 2 | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 3 | **4** | 3 |

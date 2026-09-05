@@ -1,6 +1,6 @@
 # Tarnum (Conflux)
 
-<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/heroes-conflux-magic-tarnum.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___
@@ -17,26 +17,26 @@ ___
 === "Enchanters Ⅰ"
 
     <figure markdown="span">
-        ![🚧 Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![🚧 Ⅰ](../assets/hero_specialties-conflux-tarnum-1.webp){ width="340" align=right }
     </figure>
 
 === "Enchanters Ⅳ"
 
     <figure markdown="span">
-        ![🚧 Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![🚧 Ⅳ](../assets/hero_specialties-conflux-tarnum-4.webp){ width="340" align=right }
     </figure>
 
 === "Enchanters Ⅵ"
 
     <figure markdown="span">
-        ![Enchanters Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Enchanters Ⅵ](../assets/hero_specialties-conflux-tarnum-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: **Search(1)** [:spell:](../spells/index.md). You can Remove this card instead of taking it into your hand. |
-| Ⅳ | :map_effect: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:golden: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
+| Ⅳ | :map_effect: :pay: 10 :gold:, then find the [Enchanters](../units/enchanters.md) card in the [:gold_tier: Neutral Unit](../units/index.md) deck and add it to your [Unit](../units/index.md) deck. You can control only 1 [Enchanters unit](../units/enchanters.md) at a time.<br><br>— OR —<br><br>:instant: Draw a card. |
 | Ⅵ | :instant: **Search(1)** [:spell:](../spells/index.md) twice. If their type allows it, and you have enough :power: available, you can immediately cast one or both of these [spells](../spells/index.md), even if you already cast a spell this round. Place each spell you use this way on the top of the [Spell](../spells/index.md) deck or on its discard pile in any order. |
 
 

@@ -1,6 +1,6 @@
 # Dessa
 
-<p style="text-align: center;" markdown>![Dessa](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Dessa](../assets/heroes-stronghold-magic-dessa.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Battle Mage](index.md)</p>
 ___
@@ -17,27 +17,27 @@ ___
 === "Logistics Ⅰ"
 
     <figure markdown="span">
-        ![Logistics Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Logistics Ⅰ](../assets/hero_specialties-stronghold-dessa-1.webp){ width="340" align=right }
     </figure>
 
 === "Logistics Ⅳ"
 
     <figure markdown="span">
-        ![Logistics Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Logistics Ⅳ](../assets/hero_specialties-stronghold-dessa-4.webp){ width="340" align=right }
     </figure>
 
 === "Logistics Ⅵ"
 
     <figure markdown="span">
-        ![Logistics Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Logistics Ⅵ](../assets/hero_specialties-stronghold-dessa-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Extend your Combat against a Neutral Army for another round (without spending any :movement:). |
-| Ⅳ | :map_effect: Your Main Hero gains 1 :movement:.<br><br>— OR —<br><br>:ongoing: For this Combat, the :initiative: of all your [units](../units/index.md) is increased by 1. |
-| Ⅵ | :map_effect: Your Main Hero gains 1 :movement: and can move through [blocked fields](../fields/blocked_field.md) during this turn.<br><br>— OR —<br><br>:instant: Draw 2 cards. |
+| Ⅰ | :instant: Extend your Combat against a Neutral Army for another round (without spending any :movement_points:). |
+| Ⅳ | :map_effect: Your Main Hero gains 1 :movement_points:.<br><br>— OR —<br><br>:ongoing: For this Combat, the :initiative: of all your [units](../units/index.md) is increased by 1. |
+| Ⅵ | :map_effect: Your Main Hero gains 1 :movement_points: and can move through [blocked fields](../fields/blocked_field.md) during this turn.<br><br>— OR —<br><br>:instant: Draw 2 cards. |
 
 
 ## Comes With

@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Earth Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Earth Elementals](../assets/units-summoned-bronze-earth_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Earth Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Earth Elementals](../assets/units-summoned-bronze-earth_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Earth Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Neutral Earth Elementals](../assets/units-neutral-golden-earth_elemental.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
-| Town | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :golden: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Town | [Summoned](../towns/neutral.md#summoned-units) | [Summoned](../towns/neutral.md#summoned-units) | [Neutral](../towns/neutral.md) |
+| Tier | :bronze_tier: | :bronze_tier: | :gold_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 |
 | :defense: | 2 | 2 | 2 |
 | :health_points: | 2 | 2 | 5 |

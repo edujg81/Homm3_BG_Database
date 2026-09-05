@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few Magic Elementals](../assets/units-conflux-golden-magic_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Magic Elementals](../assets/units-conflux-golden-magic_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Magic Elementals](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Neutral Magic Elementals](../assets/units-neutral-golden-magic_elementals.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :golden: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 4 | **5** | 3 |
 | :defense: | 2 | 2 | 1 |
 | :health_points: | 7 | 7 | 7 |

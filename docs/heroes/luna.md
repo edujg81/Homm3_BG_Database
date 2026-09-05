@@ -1,6 +1,6 @@
 # Luna
 
-<p style="text-align: center;" markdown>![Luna](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Luna](../assets/heroes-conflux-magic-luna.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
 ___
@@ -17,27 +17,27 @@ ___
 === "Fire Wall Ⅰ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fire Wall Ⅰ](../assets/hero_specialties-conflux-luna-1.webp){ width="340" align=right }
     </figure>
 
 === "Fire Wall Ⅳ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fire Wall Ⅳ](../assets/hero_specialties-conflux-luna-4.webp){ width="340" align=right }
     </figure>
 
 === "Fire Wall Ⅵ"
 
     <figure markdown="span">
-        ![Fire Wall Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Fire Wall Ⅵ](../assets/hero_specialties-conflux-luna-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
+| Ⅰ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 1 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:ground_unit:](../units/index.md#ground-units) or [:ranged_unit: unit](../units/index.md#ranged-units) passing through. |
 | Ⅳ | :instant: Take one card from your discard pile into your hand.<br><br>— OR —<br><br>:instant: +2 :power: |
-| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:unit_ground:](../units/index.md#ground-units) or [:unit_ranged: unit](../units/index.md#ranged-units) passing through. |
+| Ⅵ | :ongoing: For this Combat, place this card or a Fire Wall token in an empty space on the Combat board. Deal 3 :damage: to any [unit](../units/index.md) starting its turn here or stopping here and to any [:ground_unit:](../units/index.md#ground-units) or [:ranged_unit: unit](../units/index.md#ranged-units) passing through. |
 
 
 ## Comes With

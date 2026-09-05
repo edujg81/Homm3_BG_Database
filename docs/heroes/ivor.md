@@ -1,6 +1,6 @@
 # Ivor
 
-<p style="text-align: center;" markdown>![Ivor](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Ivor](../assets/heroes-rampart-might-ivor.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:might: Ranger](index.md)</p>
 ___
@@ -17,26 +17,26 @@ ___
 === "Elves Ⅰ"
 
     <figure markdown="span">
-        ![Elves Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elves Ⅰ](../assets/hero_specialties-rampart-ivor-1.webp){ width="340" align=right }
     </figure>
 
 === "Elves Ⅳ"
 
     <figure markdown="span">
-        ![Elves Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elves Ⅳ](../assets/hero_specialties-rampart-ivor-4.webp){ width="340" align=right }
     </figure>
 
 === "Elves Ⅵ"
 
     <figure markdown="span">
-        ![Elves Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Elves Ⅵ](../assets/hero_specialties-rampart-ivor-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
 | Ⅰ | :instant: Set all dice of the next attack roll to "0". |
-| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for a [:unit_ranged: unit](../units/index.md#ranged-units). |
+| Ⅳ | :instant: Your selected [unit](../units/index.md) gains +1 :attack:.<br><br>— OR —<br><br>:instant: Your selected [unit](../units/index.md) gains +1 :defense:.<br><br>The effect doubles for a [:ranged_unit: unit](../units/index.md#ranged-units). |
 | Ⅵ | :ongoing: For this Combat, your selected [unit's](../units/index.md) :health_points: is increased by 2.<br><br>— OR —<br><br>:instant: Instead of rolling, set all dice of your roll to the values of your choice. |
 
 

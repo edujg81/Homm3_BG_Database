@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Oceanids](../assets/units-cove-bronze-oceanids-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Oceanids](../assets/units-cove-bronze-oceanids-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Oceanids](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Oceanids](../assets/units-neutral-bronze-oceanids.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 0 | 0 | 0 |
 | :health_points: | 3 | 3 | 3 |

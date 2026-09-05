@@ -1,15 +1,15 @@
 # Steel Golems
 
 <figure markdown="span">
-    ![Neutral Steel Golems](../assets/units-blank-silver.webp){ width="340" align=right }
+    ![Neutral Steel Golems](../assets/units-neutral-silver-steel_golems.webp){ width="340" align=right }
 </figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_ground:](index.md#ground-units) |
+| Tier | :silver_tier: |
+| Type | [:ground_unit:](index.md#ground-units) |
 | :attack: | 3 |
 | :defense: | 2 |
 | :health_points: | 3 |

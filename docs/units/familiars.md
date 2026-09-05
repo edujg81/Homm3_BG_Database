@@ -21,15 +21,15 @@
 === "Imp Cache"
 
     <figure markdown="span">
-        ![Imp Cache Familiars](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Imp Cache Familiars](../assets/creature_banks-imp_cache-familiars.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Imp Cache |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :bronze: | :bronze: | :bronze: | - |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
+| Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: | - |
+| Type | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) | [:ground_unit:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 | 1 |
 | :defense: | 1 | 1 | 1 | 0 |
 | :health_points: | 2 | 2 | 2 | 2 |

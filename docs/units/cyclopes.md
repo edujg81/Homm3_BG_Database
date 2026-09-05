@@ -3,33 +3,33 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few Cyclopes](../assets/units-stronghold-golden-cyclopes-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Cyclopes](../assets/units-stronghold-golden-cyclopes-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Neutral Cyclopes](../assets/units-neutral-golden-cyclopes.webp){ width="340" align=right }
     </figure>
 
 === "Cyclops Stockpile"
 
     <figure markdown="span">
-        ![Cyclops Stockpile Cyclopes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Cyclops Stockpile Cyclopes](../assets/creature_banks-cyclops_stockpile-cyclopes.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral | Cyclops Stockpile |
 | :--- | :---: | :---: | :---: | :---: |
-| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | - |
-| Tier | :golden: | :golden: | :golden: | - |
-| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Town | [Stronghold](../towns/stronghold.md) | [Stronghold](../towns/stronghold.md) | [Neutral](../towns/neutral.md) | [Creature Bank](../towns/neutral.md#creature-bank-units) |
+| Tier | :gold_tier: | :gold_tier: | :gold_tier: | - |
+| Type | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 5 | 5 | 5 | 5 |
 | :defense: | 0 | **1** | 1 | 1 |
 | :health_points: | 6 | **7** | 6 | 5 |

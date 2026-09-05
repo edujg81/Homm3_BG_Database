@@ -9,7 +9,7 @@
 === "Empowered"
 
     <figure markdown="span">
-        ![Empowered Leadership](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Empowered Leadership](../assets/abilities-leadership-empowered.webp){ width="340" align=right }
     </figure>
 
 
@@ -19,8 +19,8 @@ ___
 
 | Type | Effect | :expert: Effect |
 | :--- | :---: | :---: |
-| Regular | :instant: Gain a :morale_positive: token. | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. |
-| Empowered | :instant: Draw 2 cards.<br>Then, gain a :morale_positive: token. | - |
+| Regular | :instant: Gain a :positive_morale: token. | :instant: Draw 2 cards.<br>Then, gain a :positive_morale: token. |
+| Empowered | :instant: Draw 2 cards.<br>Then, gain a :positive_morale: token. | - |
 
 
 ## Heroes With Starting Ability

@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Phoenixes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Few Phoenixes](../assets/units-conflux-golden-phoenixes-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Phoenixes](../assets/units-blank-golden.webp){ width="340" align=right }
+        ![Pack of Phoenixes](../assets/units-conflux-golden-phoenixes-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Phoenixes](../assets/units-blank-azure.webp){ width="340" align=right }
+        ![Neutral Phoenixes](../assets/units-neutral-azure-phoenixes.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
-| Tier | :golden: | :golden: | :azure: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :gold_tier: | :gold_tier: | :azure_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 6 | **7** | 6 |
 | :defense: | 2 | 2 | 2 |
 | :health_points: | 7 | **8** | 7 |

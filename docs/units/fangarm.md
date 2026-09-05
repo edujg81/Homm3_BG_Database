@@ -1,15 +1,15 @@
 # Fangarm
 
 <figure markdown="span">
-    ![Neutral Fangarm](../assets/units-blank-silver.webp){ width="340" align=right }
+    ![Neutral Fangarm](../assets/units-neutral-silver-fangarm.webp){ width="340" align=right }
 </figure>
 
 
 | Statistics | Neutral |
 | :--- | :---: |
 | Town | [Neutral](../towns/neutral.md) |
-| Tier | :silver: |
-| Type | [:unit_flying:](index.md#flying-units) |
+| Tier | :silver_tier: |
+| Type | [:flying_unit:](index.md#flying-units) |
 | :attack: | 3 |
 | :defense: | 1 |
 | :health_points: | 5 |

@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Few Ayssids](../assets/units-cove-silver-ayssids-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Pack of Ayssids](../assets/units-cove-silver-ayssids-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Ayssids](../assets/units-blank-silver.webp){ width="340" align=right }
+        ![Neutral Ayssids](../assets/units-neutral-silver-ayssids.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Cove](../towns/cove.md) | [Cove](../towns/cove.md) | [Neutral](../towns/neutral.md) |
-| Tier | :silver: | :silver: | :silver: |
-| Type | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) | [:unit_flying:](index.md#flying-units) |
+| Tier | :silver_tier: | :silver_tier: | :silver_tier: |
+| Type | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) | [:flying_unit:](index.md#flying-units) |
 | :attack: | 3 | 3 | 3 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 5 | **6** | 5 |

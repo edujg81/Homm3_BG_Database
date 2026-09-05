@@ -1,6 +1,6 @@
 # Ash
 
-<p style="text-align: center;" markdown>![Ash](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Ash](../assets/heroes-inferno-magic-ash.webp){ width=540 align=right }</p>
 ___
 <p style="text-align: center;" markdown>[:magic: Heretic](index.md)</p>
 ___
@@ -17,27 +17,27 @@ ___
 === "Bloodlust Ⅰ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅰ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Bloodlust Ⅰ](../assets/hero_specialties-inferno-ash-1.webp){ width="340" align=right }
     </figure>
 
 === "Bloodlust Ⅳ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅳ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Bloodlust Ⅳ](../assets/hero_specialties-inferno-ash-4.webp){ width="340" align=right }
     </figure>
 
 === "Bloodlust Ⅵ"
 
     <figure markdown="span">
-        ![Bloodlust Ⅵ](../assets/player-deck-back.webp){ width="340" align=right }
+        ![Bloodlust Ⅵ](../assets/hero_specialties-inferno-ash-7.webp){ width="340" align=right }
     </figure>
 
 
 | Level | Description |
 | :---: | :---: |
-| Ⅰ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +2 :attack:. Place a Black cube on that [unit](../units/index.md). |
-| Ⅳ | :ongoing: For this Combat, your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit's](../units/index.md#flying-units) :attack: is increased by 2 and its :initiative: is increased by 1. Place a Black cube on that [unit](../units/index.md). |
-| Ⅵ | :instant: Your selected [:unit_ground:](../units/index.md#ground-units) or [:unit_flying: unit](../units/index.md#flying-units) gains +3 :attack: and ignores Retaliation Attacks. Place a Black cube on that [unit](../units/index.md). |
+| Ⅰ | :instant: Your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit](../units/index.md#flying-units) gains +2 :attack:. Place a Black cube on that [unit](../units/index.md). |
+| Ⅳ | :ongoing: For this Combat, your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit's](../units/index.md#flying-units) :attack: is increased by 2 and its :initiative: is increased by 1. Place a Black cube on that [unit](../units/index.md). |
+| Ⅵ | :instant: Your selected [:ground_unit:](../units/index.md#ground-units) or [:flying_unit: unit](../units/index.md#flying-units) gains +3 :attack: and ignores Retaliation Attacks. Place a Black cube on that [unit](../units/index.md). |
 
 
 ## Comes With

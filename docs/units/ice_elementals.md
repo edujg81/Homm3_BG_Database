@@ -3,27 +3,27 @@
 === "Few"
 
     <figure markdown="span">
-        ![Few Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Few Ice Elementals](../assets/units-conflux-bronze-ice_elementals-few.webp){ width="340" align=right }
     </figure>
 
 === "Pack"
 
     <figure markdown="span">
-        ![Pack of Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Pack of Ice Elementals](../assets/units-conflux-bronze-ice_elementals-pack.webp){ width="340" align=right }
     </figure>
 
 === "Neutral"
 
     <figure markdown="span">
-        ![Neutral Ice Elementals](../assets/units-blank-bronze.webp){ width="340" align=right }
+        ![Neutral Ice Elementals](../assets/units-neutral-bronze-ice_elementals.webp){ width="340" align=right }
     </figure>
 
 
 | Statistics | Few | Pack | Neutral |
 | :--- | :---: | :---: | :---: |
 | Town | [Conflux](../towns/conflux.md) | [Conflux](../towns/conflux.md) | [Neutral](../towns/neutral.md) |
-| Tier | :bronze: | :bronze: | :bronze: |
-| Type | [:unit_ground:](index.md#ground-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
+| Tier | :bronze_tier: | :bronze_tier: | :bronze_tier: |
+| Type | [:ground_unit:](index.md#ground-units) | [:ranged_unit:](index.md#ranged-units) | [:ranged_unit:](index.md#ranged-units) |
 | :attack: | 2 | **3** | 2 |
 | :defense: | 1 | 1 | 1 |
 | :health_points: | 4 | **5** | 3 |
